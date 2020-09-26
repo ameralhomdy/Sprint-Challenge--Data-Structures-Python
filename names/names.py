@@ -19,7 +19,6 @@ duplicates = []  # Return the list of duplicates in this data structure
 #         if name_1 == name_2:
 #             duplicates.append(name_1)
 
-
 # store the all the first names in a list
 # first_names = []
 # for name_1 in names_1:
